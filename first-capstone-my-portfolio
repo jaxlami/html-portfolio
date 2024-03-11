@@ -22,7 +22,7 @@
   </ul>
 
   <h2>Wanna reach out?</h2>
-  <a src="./public/contact.html">Contact me here!</a>
+  <a href="./public/contact.html">Contact me here!</a>
   
   
 </body>
