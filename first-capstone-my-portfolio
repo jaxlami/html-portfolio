@@ -8,21 +8,34 @@
   <h1> My resume </h>
   <hr/>
   <h2>hey 🙋‍♂️</h2>
-  <img src="./portiriat.png"
+  <img height="200" src="./portirate.jpg">
   <p>This is me. my name is Jax lami. nice to meet you</p>
+  <hr/>
   <h2>Edducation</h2>
-  <p>
-    Bacholar in computer sience in university of oslo
-  </p>
+
+    <ul>
+      <li>'electro fag' in nord-norge</li>
+      <li>soon computer science in Hamar</li>
+    </ul>
+  
   <h2>skills</h2>
   <ul>
-  <li>Javascript</li>
-  <li>CSS</li>
-  <li>HTML</li>
+      <li>Javascript</li>
+      <li>CSS</li>
+      <li>HTML</li>
+      <li>microsoft excel and word</li>
   </ul>
+  <h2>languages</h2>
+  <p>I will rank them interms fluancy</p>
+  <ol type="I">
+    <li>English</li>
+    <li>Norwigian</li>
+    <li>afaan Oromo</li>
+    <li>Mandrin (chinese)</li>
+  </ol>
 
   <h2>Wanna reach out?</h2>
-  <a href="./public/contact.html">Contact me here!</a>
+  <a href="./4.3 HTML Porfolio Project/public/contact.html">contact me</a>
   
   
 </body>
