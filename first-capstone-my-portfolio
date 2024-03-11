@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>resume</title>
+</head>
+<body>
+  <h1> My resume </h>
+  <hr/>
+  <h2>hey 🙋‍♂️</h2>
+  <img src="./portiriat.png"
+  <p>This is me. my name is Jax lami. nice to meet you</p>
+  <h2>Edducation</h2>
+  <p>
+    Bacholar in computer sience in university of oslo
+  </p>
+  <h2>skills</h2>
+  <ul>
+  <li>Javascript</li>
+  <li>CSS</li>
+  <li>HTML</li>
+  </ul>
+
+  <h2>Wanna reach out?</h2>
+  <a src="./public/contact.html">Contact me here!</a>
+  
+  
+</body>
+</html>
